@@ -4,9 +4,9 @@
 
 CMD ou Prompt de Comando um interpretador é de linha de comando no OS/2 e sistemas baseados no Windows NT.
 
-```bash
-Windows NT é uma família de sistemas operacionais produzidos pela Microsoft.
-```
+
+- Windows NT é uma família de sistemas operacionais produzidos pela Microsoft.
+
 ### OS/2?
 
 é um sistema operacional proprietário para computadores pessoais baseados em x86, PowerPC.
