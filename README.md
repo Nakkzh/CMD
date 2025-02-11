@@ -60,6 +60,11 @@ Tab
 ```
 > Completa comandos automaticamente.
 
+```bash
+Move
+```
+> Move arquivos de uma pasta para outra.
+
 ## Exemplo de utilizações dos comandos:
 
 #### MKDIR
@@ -97,4 +102,8 @@ echo [o que deseja que apareça, ou, [nome do arquivo de texto] > o que quer que
 #### TAB
 ```bash
 apenas comece a utilizar um comando ou o nome do diretório e antes de terminar clique TAB que o completa automaticamente
+```
+#### MOVE
+```bash
+move [nome da pasta que esta\nome do arquivo que quer mover "espaço" nome da pasta que quer mover\nome do arquivo
 ```
