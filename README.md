@@ -26,12 +26,12 @@ DIR
 > Mostra os diretórios.
 
 ```bash
-RMDIR [nome do/dos diretório]
+RMDIR
 ```
 > Deleta um diretório.
 
 ```bash
-Raname [nome atual "espaço" novo nome]
+Raname
 ```
 > Utilizado para renomear um diretório.
 
@@ -53,4 +53,48 @@ Type
 ```bash
 Echo
 ```
-> Exibe mensagens ou ativa ou desativa o eco de comandos.
+> Exibe ou armazena mensagens.
+
+```bash
+Tab
+```
+> Completa comandos automaticamente.
+
+## Exemplo de utilizações dos comandos:
+
+#### MKDIR
+```bash
+mkdir [nome da pasta]
+```
+#### DIR
+```bash
+dir [utilize dentro da pasta que deseja ver os diretorios]
+```
+#### RMDIR
+```bash
+rmdir [nome da pasta]
+```
+#### RENAME
+```bash
+rename [nome atual "espaço" novo nome]
+```
+#### CD
+```bash
+cd [..] para voltar um diretório. ou [nome do diretório]
+```
+#### SETAS
+```bash
+apenas clique na seta para cima para utilizar o ultimo comando, e seta para baixo se passou de algum comando e deseja voltar
+```
+#### TYPE
+```bash
+type [nome do arquivo de texto]
+```
+#### ECHO
+```bash
+echo [o que deseja que apareça, ou, [nome do arquivo de texto] > o que quer que apareça]
+```
+#### TAB
+```bash
+apenas comece a utilizar um comando ou o nome do diretório e antes de terminar clique TAB que o completa automaticamente
+```
